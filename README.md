@@ -35,3 +35,7 @@ My long-term goal is to contribute to the tech community, sharing knowledge, and
 If you share similar interests or have insights to share, please feel free to reach out. Let's connect, learn, and grow together in the exciting world of Information Technology and Computer Science!
 
 Thanks for stopping by and getting to know me a little better. Happy coding! 👩‍💻👨‍💻
+
+## Reach Me
++92312398704
+anon.mous4200@gmail.com
