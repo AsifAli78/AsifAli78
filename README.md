@@ -21,6 +21,11 @@ One of my primary interests lies in the realm of programming languages. I believ
 - **C++**: For its high-performance capabilities and its use in game development, system software, and more.
 
 - **Ruby**: A dynamic and object-oriented language that's a joy to work with.
+  
+- **Assembly**: Delving into the low-level magic of computing, where every line of code has a direct impact.
+
+- **Bash**: Mastering the art of shell scripting for automating tasks and simplifying the command line.
+
 
 ### 📚 Learning Journey
 
